@@ -1,0 +1,9 @@
+#+title: README
+
+This is the repo to learn the knowledge base in the Cherry Studio.
+
+* AIMS
+- [ ] how the knowledge base works in the Cherry Studio.
+- [ ] How can we create our own agent with knowledge base and call it
+  in Cherry Studio.
+- [ ] what is the Graph RAG and how we use it. 
