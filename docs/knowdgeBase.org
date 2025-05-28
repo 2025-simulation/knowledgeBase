@@ -1,0 +1,15 @@
+#+title: Knowledge Base in Cherry Studio
+
+* todo
+- [ ] where is the directory that Cherry Studio stores the data.
+- [ ] what is Dify. 
+
+* Overview
+
+Cut every file into multiple fragments, and convert it into
+vectors. AI will answer with returned the best matched fragments.
+
+** others features
+- store every data in the Cherry Studio.
+- it use [[https://turso.tech/libsql][libSQL]] as the vector database.
+- in the MCP, you can use dify as the knowledge base.
